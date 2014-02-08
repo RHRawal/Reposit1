@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ARecipeScala2</string>
+	<string name="menu_settings">Settings</string>
+    <string name="title_activity_view_recipes">ViewRecipesScala</string>
+    <string name="title_activity_single_list_item">SingleListItemScala</string>
+    <string name="menu_search">MyRecipe2Scala</string>
+    <string name="search_hint">RHR help for search scala</string>
+</resources>
